@@ -29,7 +29,7 @@ int main(void){
 	
 	//ファイル名生成ループ
 	FILE *fp_read,*fp_write;
-	char fname[64] = "data/data.txt";//書き込むファイル
+	char fname[64] = "data/movie.txt";//書き込むファイル
 	//char fname[64] = "bmp256128/data.txt";
 	fp_write=fopen(fname,"a");
 	begin=clock();
