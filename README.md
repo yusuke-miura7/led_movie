@@ -22,7 +22,7 @@
 
 ### LEDパネル（64×32）
 ![IMG20230515165702](https://github.com/yusuke-miura7/test/assets/124438316/62932ecb-7d1a-4222-88ca-e1018384f78f)  
-Amazonにて購入 https://www.amazon.co.jp/gp/product/B07SPFK8P1/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1
+Amazonにて購入 https://www.amazon.co.jp/gp/product/B07SPFK8P1/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1  
 HUB75(E)規格のものです。サイズは様々ありますが、ピクセル数の多い高解像度のものにするとLEDパネルのコンパクトさ、処理の軽さ、消費電力といったIoTの
 観点からみた利点が失われるような気がしたため、このサイズにしました。
 
